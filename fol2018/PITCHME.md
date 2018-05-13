@@ -43,7 +43,7 @@
 
 ### Grav’s Layered Conceptual Design
 
-![Conceptual Design](images/grav-conceptual-design.png)
+![Conceptual Design](img/grav-conceptual-design.png)
 
 ---?color=#8fa33b
 
@@ -184,13 +184,13 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ### Open Publishing Space
 
-![Open Publishing Space](images/grav-open-publishing-space.png)
+![Open Publishing Space](img/grav-open-publishing-space.png)
 
 ---?color=#FFFFFF
 
 ### Learn2 with Git Sync
 
-![Learn2 with Git Sync](images/grav-learn2-with-git-sync.png)
+![Learn2 with Git Sync](img/grav-learn2-with-git-sync.png)
 
 ---?color=#FFFFFF
 
@@ -201,13 +201,13 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 [h5p url="https://h5p.org/h5p/embed/712"]
 ```
 
-![H5P Shortcode](images/h5p.png)
+![H5P Shortcode](img/h5p.png)
 
 ---?color=#FFFFFF
 
 ### Hypothesis Plugin
 
-![Hypothesis Plugin](images/grav-hypothesis-plugin.png)
+![Hypothesis Plugin](img/grav-hypothesis-plugin.png)
 
 ---?color=#8fa33b
 
