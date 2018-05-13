@@ -245,7 +245,7 @@ Blog: [hibbittsdesign.org](http://hibbittsdesign.org/blog)
 Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 Email: [paul@hibbittsdesign.org](mailto://paul@hibbittsdesign.org)  
 
-**Grav Open Course Hub**
+**Grav Open Course Hub**  
 Canvas Demo: [demo.hibbittsdesign.org/canvascoursehub](http://demo.hibbittsdesign.org/canvascoursehub)  
 Moodle Demo: [demo.hibbittsdesign.org/moodlecoursehub](http://demo.hibbittsdesign.org/moodlecoursehub)  
 Docs: [learn.hibbittsdesign.org/coursehub](http://learn.hibbittsdesign.org/coursehub)  
