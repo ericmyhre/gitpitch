@@ -127,11 +127,11 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-### Problems That the Course Hub Strives to Address
+### Course Hub Designed to Solve Problems
 
 - Pedagogical goals that are unmet by the current LMS
 - Student and facilitator experiences, especially multi-device, are below expectations
-- Poor ability to access, share and collaboratively edit course materials
+- Ability to access, share and collaboratively edit course materials is lacking
 - The creation and (often frequently needed) updating of online course materials is too time consuming
 - Once created, online course materials are difficult to repurpose on different platforms for different contexts
 - Unable to leverage existing Web authoring skills or standards on the current Learning Platform
