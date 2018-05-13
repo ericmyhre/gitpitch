@@ -158,7 +158,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-### Wait, What about _Inside_ of an LMS?
+### Wait, What about _Inside_ of<>an LMS?
 #### [canvas.sfu.ca/courses/35900](https://canvas.sfu.ca/courses/35900)
 
 ---?color=#8fa33b
