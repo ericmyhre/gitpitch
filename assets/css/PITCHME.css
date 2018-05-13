@@ -1,3 +1,7 @@
+.reveal blockquote {
+    width: 90%;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
