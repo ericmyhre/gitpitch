@@ -2,6 +2,14 @@
     color: #899265;
 }
 
+.reveal a:hover {
+    color: #899265;
+}
+
+.reveal a:visited {
+    color: #899265;
+}
+
 .reveal ul li {
     margin: 0 0 8px 0;
 }
