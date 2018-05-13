@@ -127,7 +127,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-### Course Hub Designed to Solve Problems
+### Problems Tackled by Open Course Hub
 
 - Pedagogical goals that are unmet by the current LMS
 - Student and facilitator experiences, especially multi-device, are below expectations
