@@ -1,4 +1,4 @@
-### Delivering a Better Experience by Using the Open, Collaborative and Flexible<br>Grav CMS<br>– Inside or Outside of your LMS<br><br>
+### Delivering a Better Experience by Using the Open, Collaborative and Flexible<br>Grav CMS – Inside or Outside of your LMS<br><br>
 ##### Paul D Hibbitts<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@hibbittsdesign](https://twitter.com/hibbittsdesign)
 
 ---
