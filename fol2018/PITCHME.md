@@ -177,7 +177,8 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
     - Display H5P.org and locally store H5P content
 - Hypothesis Plugin
     - Display the Hypothesis sidebar on your Grav site
----
+
+---?color=#FFFFFF
 
 ### @color[black](Open Publishing Space)
 
