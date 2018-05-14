@@ -180,19 +180,19 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---?color=#FFFFFF
 
-### Open Publishing Space
+### @color[black](Open Publishing Space)
 
 ![Open Publishing Space](assets/img/grav-open-publishing-space.png)
 
 ---?color=#FFFFFF
 
-### Learn2 with Git Sync
+### @color[black](Learn2 with Git Sync)
 
 ![Learn2 with Git Sync](assets/img/grav-learn2-with-git-sync.png)
 
 ---?color=#FFFFFF
 
-### H5P Shortcode
+### @color[black](H5P Shortcode)
 
 ```
 [h5p id="712"]
@@ -203,7 +203,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---?color=#FFFFFF
 
-### Hypothesis Plugin
+### @color[black](Hypothesis Plugin)
 
 ![Hypothesis Plugin](assets/img/grav-hypothesis-plugin.png)
 
