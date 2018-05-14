@@ -178,10 +178,6 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 - Hypothesis Plugin
     - Display the Hypothesis sidebar on your Grav site
 
----?color=#FFFFFF
-
-### @color[black](Open Publishing Space)
-
 ---?image=assets/img/grav-open-publishing-space.png&size=auto 75%&position=center&color=#FFFFFF
 
 ### @color[black](Open Publishing Space)
