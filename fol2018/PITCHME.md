@@ -182,7 +182,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ### @color[black](Open Publishing Space)
 
----?image=assets/img/grav-open-publishing-space.png&size=auto 60%&position=bottom
+---?image=assets/img/grav-open-publishing-space.png&size=auto 75%&position=center
 
 ---?color=#FFFFFF
 
