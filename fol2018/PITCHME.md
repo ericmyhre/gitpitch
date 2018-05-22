@@ -239,7 +239,7 @@ Which of these “tech-savvy” skills are the biggest challenge?
  - Web server access
  - GitHub or GitLab working knowledge
  - GitHub Desktop App (not needed if using Atom)
- - ...or something else you've seen today?
+ - ...or something else that you’ve seen today?
 
 ---
 
