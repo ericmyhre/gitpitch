@@ -232,13 +232,14 @@ GitHub Workflow
 ---
 
 ### @fa[exclamation-triangle] Pop Quiz @fa[exclamation-triangle]
-Which of these “tech-savvy” skills concern you the most?
+Which of these “tech-savvy” skills are the biggest challenge?
  - Text editor usage (e.g. Atom or Brackets)
  - Markdown or HTML basics
  - Understanding folder hierarchies (i.e. relative links)
  - Web server access
  - GitHub or GitLab working knowledge
  - GitHub Desktop App (not needed if using Atom)
+ - ...or something else you've seen today?
 
 ---
 
