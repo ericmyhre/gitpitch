@@ -167,7 +167,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---?color=#8fa33b
 
-### What About Other Open-related Grav Projects?
+### How About Other Open-related Grav Projects?
 
 ---
 
