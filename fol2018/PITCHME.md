@@ -151,19 +151,23 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-> “The Open Course Hub project provides a series of excellent resources for integrating Grav with Canvas, as well as documentation and examples which make them a joy to work with. It is quick to set up, easy to use, and especially with the Git Sync plugin shows the power of a modern approach to integrated CMS-LMS solutions. The large and complex architecture of Canvas is complemented by the relative simplicity of Grav, and the Open Course Hub demonstrates this well.”
--- Ole Vik (Research Assistant at the University of Bergen, Norway and Grav Plugin Developer)
-
----
-
 ### Enough Talk, Demo Time!  
 
 #### [demo.hibbittsdesign.org/cmpt-363-173/](http://demo.hibbittsdesign.org/cmpt-363-173/)
 
 ---
 
-### What about _Inside_ of<br> an LMS?
+### How about _Inside_ of<br> an LMS?
 #### [canvas.sfu.ca/courses/38847](https://canvas.sfu.ca/courses/38847)
+
+---
+
+### @fa[comment] But What are Students Saying? @fa[comment]
+
+---
+
+> “The 363 Canvas course website does an excellent job of presenting only the current week’s relevant assignments and readings on the Home page. This makes using the site a breeze because no time is required to actually navigate the site – all the important stuff is there in one click!”
+-- SFU CMPT-363 Student
 
 ---?color=#8fa33b
 
