@@ -142,7 +142,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-### @fa[comment] What are Users Saying? @fa[comment]
+### @fa[comment] How about a User Quote? @fa[comment]
 
 ---
 
@@ -162,7 +162,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-### @fa[comment] What are Students Saying? @fa[comment]
+### @fa[comment] How about a Student Quote? @fa[comment]
 
 ---
 
