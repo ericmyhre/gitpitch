@@ -155,7 +155,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 #### [demo.hibbittsdesign.org/cmpt-363-173/](http://demo.hibbittsdesign.org/cmpt-363-173/)
 <br>
-##### SFU CMPT-363 Course Hub, Fall 2017
+##### SFU CMPT-363 Open Course Hub, Fall 2017
 
 ---
 
