@@ -162,7 +162,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-### @fa[comment] We Need a Student Quote! @fa[comment]
+### @fa[comment] Time for a Student Quote! @fa[comment]
 
 ---
 
