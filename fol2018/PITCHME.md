@@ -167,7 +167,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 > “The 363 Canvas course website does an excellent job of presenting only the current week’s relevant assignments and readings on the Home page. This makes using the site a breeze because no time is required to actually navigate the site – all the important stuff is there in one click!”<br>
-— SFU CMPT-363 Student, Using Canvas + Open Course Hub
+— SFU CMPT-363 Student, Using Canvas with Open Course Hub
 
 ---?color=#8fa33b
 
