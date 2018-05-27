@@ -93,9 +93,9 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ### @fa[laptop] What Skills are Required? @fa[laptop]
 
 Intended for “Tech-savvy” educators:  
- ✓ Code editor usage (e.g. Atom or Brackets)  
+ ✓ Code editor usage, e.g. Atom or Brackets   
  ✓ Markdown or HTML basics  
- ✓ Understanding folder hierarchies (i.e. relative links)  
+ ✓ Understanding of folder hierarchies  
  ✓ Web server access  
  ✓ GitHub working knowledge (recommended)  
 
