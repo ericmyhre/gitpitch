@@ -7,6 +7,7 @@
 ---
 
 ### @fa[rocket] Topics to Explore Today @fa[rocket]
+
 1. What is Grav?
 2. Grav Open Course Hub Project
 3. Other Open-related Grav Projects
