@@ -229,7 +229,7 @@ Markdown
 
 GitHub Workflow  
 [Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
-[Atom Code Editor (with GitHub integration)](https://atom.io/)
+[Atom Code Editor (with GitHub package)](https://atom.io/)  
 [GitHub Desktop App](https://desktop.github.com/)  
 
 ---
