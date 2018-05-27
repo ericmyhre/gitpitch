@@ -1,8 +1,8 @@
 theme : night
 
-theme-override : assets/css/PITCHME.css
+background-color : #222222;
 
-background-color : #222222
+theme-override : assets/css/PITCHME.css
 
 layout : center-left
 
