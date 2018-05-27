@@ -9,9 +9,13 @@
 3. Other Open-related Grav Projects
 4. Next Steps
 
----?color=#8fa33b
+---
+
+?color=#8fa33b
 
 ### What is Grav?
+
+---
 
 ---?image=assets/img/getgrav.png&size=contain&color=black
 
