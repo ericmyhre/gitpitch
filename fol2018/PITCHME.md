@@ -47,7 +47,7 @@
 
 ### Grav’s Layered Conceptual Design
 
-![Conceptual Design](assets/img/grav-conceptual-design.png)
+![Conceptual Design](/fol2018/img/grav-conceptual-design.png)
 
 ---?color=#8fa33b
 
@@ -188,13 +188,13 @@ Intended for more “Tech-savvy” educators:
 
 ### @color[black](Open Publishing Space)
 
-![Open Publishing Space](assets/img/grav-open-publishing-space.png)
+![Open Publishing Space](/fol2018/img/grav-open-publishing-space.png)
 
 ---?color=#FFFFFF
 
 ### @color[black](Learn2 with Git Sync)
 
-![Learn2 with Git Sync](assets/img/grav-learn2-with-git-sync.png)
+![Learn2 with Git Sync](/fol2018/img/grav-learn2-with-git-sync.png)
 
 ---?color=#FFFFFF
 
@@ -205,13 +205,13 @@ Intended for more “Tech-savvy” educators:
 [h5p url="https://h5p.org/h5p/embed/712"]
 ```
 
-![H5P Shortcode](assets/img/h5p.png)
+![H5P Shortcode](/fol2018/img/h5p.png)
 
 ---?color=#FFFFFF
 
 ### @color[black](Hypothesis Plugin)
 
-![Hypothesis Plugin](assets/img/grav-hypothesis-plugin.png)
+![Hypothesis Plugin](/fol2018/img/grav-hypothesis-plugin.png)
 
 ---?color=#8fa33b
 
