@@ -102,7 +102,7 @@ Intended for more “Tech-savvy” educators:
 
 ---
 
-### @fa[exclamation-triangle] “Tech-savvy” ≠ “Hard to Use” @fa[exclamation-triangle]
+### @fa[exclamation-triangle] Tech-savvy ≠ Hard to Use @fa[exclamation-triangle]
 
 ---?image=assets/img/grav-open-course-hub-skeleton-admin-1.png&size=contain&color=#000000
 
