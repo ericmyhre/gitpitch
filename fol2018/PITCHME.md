@@ -142,6 +142,8 @@ Intended for more “Tech-savvy” educators:
 
 ---?image=assets/img/grav-open-course-workflow-4.png&size=contain&color=white
 
+---
+
 ### Problems the Course Hub Tackles
 
 @ul[squares]
