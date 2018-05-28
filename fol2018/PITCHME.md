@@ -116,7 +116,7 @@ Intended for more “Tech-savvy” educators:
 
 ---
 
-### @fa[comment] Want a User Quote? @fa[comment]
+### @fa[comment] How About a User Quote? @fa[comment]
 
 ---
 
