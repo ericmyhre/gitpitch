@@ -134,15 +134,7 @@ Intended for more “Tech-savvy” educators:
 - Openness
 - Participation
 
----?image=assets/img/grav-open-course-workflow-1.png&size=contain&color=white
-
----?image=assets/img/grav-open-course-workflow-2.png&size=contain&color=white
-
----?image=assets/img/grav-open-course-workflow-3.png&size=contain&color=white
-
----?image=assets/img/grav-open-course-workflow-4.png&size=contain&color=white
-
----
+===
 
 ### Problems the Course Hub Tackles
 
@@ -150,12 +142,22 @@ Intended for more “Tech-savvy” educators:
 
 - Pedagogical goals that are unmet by the current LMS
 - Student and facilitator experiences, especially multi-device, are below expectations
-- Ability to access, share and collaboratively edit course materials is lacking
+- Unable to leverage existing Web authoring skills or standards on the current Learning - Ability to access, share and collaboratively edit course materials is lacking
 - The creation and updating of online materials is too time consuming
 - Online course materials are difficult to repurpose
-- Unable to leverage existing Web authoring skills or standards on the current Learning Platform
+Platform
 
 @ulend
+
+---
+
+---?image=assets/img/grav-open-course-workflow-1.png&size=contain&color=white
+
+---?image=assets/img/grav-open-course-workflow-2.png&size=contain&color=white
+
+---?image=assets/img/grav-open-course-workflow-3.png&size=contain&color=white
+
+---?image=assets/img/grav-open-course-workflow-4.png&size=contain&color=white
 
 ---
 
