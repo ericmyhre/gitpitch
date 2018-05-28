@@ -140,7 +140,7 @@ Intended for more “Tech-savvy” educators:
 
 ---
 
-> “The Open Course Hub was *easy to set up** and get running and my students loved having a one-stop place to go to for their course content. I really love that it **syncs with GitHub so easily** and seamlessly. I was able to have an open, collaborative, **easily updatable**, fully version-controlled site up and running in little time, with fairly modest technical skills. On the student side, it is all beautiful and **easy to use** on any device!”<br>
+> “The Open Course Hub was **easy to set up** and get running and my students loved having a one-stop place to go to for their course content. I really love that it **syncs with GitHub so easily** and seamlessly. I was able to have an open, collaborative, **easily updatable**, fully version-controlled site up and running in little time, with fairly modest technical skills. On the student side, it is all beautiful and **easy to use** on any device!”<br>
 — Mark Coster (Associate Professor at Griffith University, Australia)
 
 ---
@@ -164,7 +164,7 @@ Intended for more “Tech-savvy” educators:
 
 ---
 
-> “The 363 Canvas course website does an excellent job of presenting only the current week’s relevant assignments and readings on the Home page. This makes using the site a breeze because no time is required to actually navigate the site – all the important stuff is there in one click!”<br>
+> “The 363 Canvas course website does an excellent job of presenting only the current week’s relevant assignments and readings on the Home page. This makes **using the site a breeze** because no time is required to actually navigate the site – all the **important stuff is there in one click!**”<br>
 — SFU CMPT-363 Student, Using Canvas LMS partnered with Open Course Hub
 
 ---?color=#8fa33b
