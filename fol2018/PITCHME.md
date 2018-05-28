@@ -102,6 +102,27 @@ Intended for more “Tech-savvy” educators:
 
 ---
 
+### @fa[exclamation-triangle] Tech-savvy <> Hard to Use @fa[exclamation-triangle]
+
+---?image=assets/img/grav-open-course-hub-skeleton-admin-1.png&size=contain&color=#000000
+
+---?image=assets/img/grav-open-course-hub-skeleton-admin-2.png&size=contain&color=#000000
+
+---?image=assets/img/grav-open-course-hub-skeleton-admin-3.png&size=contain&color=#000000
+
+---?image=assets/img/grav-open-course-hub-skeleton-admin-4.png&size=contain&color=#000000
+
+---?image=assets/img/grav-open-course-hub-skeleton-admin-5.png&size=contain&color=#000000
+
+### @fa[comment] Want a User Quote? @fa[comment]
+
+---
+
+> “The Open Course Hub was **easy to set up** and get running and my students loved having a one-stop place to go to for their course content. I really love that it **syncs with GitHub so easily** and seamlessly. I was able to have an open, collaborative, **easily updatable**, fully version-controlled site up and running in little time, with fairly modest technical skills. On the student side, it is all beautiful and easy to use on any device!”<br>
+— Mark Coster (Associate Professor at Griffith University, Australia)
+
+---
+
 ### Grav Open Course Hub is Intended for Tech-savvy Educators who Value:
 
 - Controllability
@@ -119,8 +140,6 @@ Intended for more “Tech-savvy” educators:
 
 ---?image=assets/img/grav-open-course-workflow-4.png&size=contain&color=white
 
----
-
 ### Problems the Course Hub Tackles
 
 @ul[squares]
@@ -133,15 +152,6 @@ Intended for more “Tech-savvy” educators:
 - Unable to leverage existing Web authoring skills or standards on the current Learning Platform
 
 @ulend
-
----
-
-### @fa[comment] Want a User Quote? @fa[comment]
-
----
-
-> “The Open Course Hub was **easy to set up** and get running and my students loved having a one-stop place to go to for their course content. I really love that it **syncs with GitHub so easily** and seamlessly. I was able to have an open, collaborative, **easily updatable**, fully version-controlled site up and running in little time, with fairly modest technical skills. On the student side, it is all beautiful and easy to use on any device!”<br>
-— Mark Coster (Associate Professor at Griffith University, Australia)
 
 ---
 
