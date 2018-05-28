@@ -134,8 +134,6 @@ Intended for more “Tech-savvy” educators:
 - Openness
 - Participation
 
----
-
 ---?image=assets/img/grav-open-course-workflow-1.png&size=contain&color=white
 
 ---?image=assets/img/grav-open-course-workflow-2.png&size=contain&color=white
