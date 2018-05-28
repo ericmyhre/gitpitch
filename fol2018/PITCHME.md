@@ -17,7 +17,7 @@
 
 ### What is Grav?
 
----?image=assets/img/getgrav.png&size=contain&color=black
+---?image=fol2018/img/getgrav.png&size=contain&color=black
 
 ---?image=assets/img/getgrav-2.png&size=contain&color=black
 
