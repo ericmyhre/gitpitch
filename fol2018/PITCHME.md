@@ -145,7 +145,6 @@ Intended for more “Tech-savvy” educators:
 - Unable to leverage existing Web authoring skills or standards on the current Learning - Ability to access, share and collaboratively edit course materials is lacking
 - The creation and updating of online materials is too time consuming
 - Online course materials are difficult to repurpose
-Platform
 
 @ulend
 
