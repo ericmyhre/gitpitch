@@ -164,7 +164,7 @@ Intended for more “Tech-savvy” educators:
 
 ---
 
-> “The 363 Canvas course website does an excellent job of presenting only the current week’s relevant assignments and readings on the Home page. This makes **using the site a breeze** because no time is required to actually navigate the site – all the **important stuff is there in one click!**”<br>
+> “The 363 Canvas course website does an excellent job of presenting only the current week’s relevant assignments and readings on the Home page. This makes **using the site a breeze** because no time is required to actually navigate the site – all the important stuff is there in one click!”<br>
 — SFU CMPT-363 Student, Using Canvas LMS partnered with Open Course Hub
 
 ---?color=#8fa33b
