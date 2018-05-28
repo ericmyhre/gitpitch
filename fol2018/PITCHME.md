@@ -114,6 +114,8 @@ Intended for more “Tech-savvy” educators:
 
 ---?image=assets/img/grav-open-course-hub-skeleton-admin-5.png&size=contain&color=#000000
 
+---
+
 ### @fa[comment] Want a User Quote? @fa[comment]
 
 ---
