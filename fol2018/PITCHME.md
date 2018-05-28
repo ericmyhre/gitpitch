@@ -134,7 +134,7 @@ Intended for more “Tech-savvy” educators:
 - Openness
 - Participation
 
-===
+---
 
 ### Problems the Course Hub Tackles
 
