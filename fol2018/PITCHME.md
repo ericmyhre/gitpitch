@@ -142,7 +142,8 @@ Intended for more “Tech-savvy” educators:
 
 - Pedagogical goals that are unmet by the current LMS
 - Student and facilitator experiences, especially multi-device, are below expectations
-- Unable to leverage existing Web authoring skills or standards on the current Learning - Ability to access, share and collaboratively edit course materials is lacking
+- Unable to leverage existing Web authoring skills or standards on the current Learning
+- Ability to access, share and collaboratively edit course materials is lacking
 - The creation and updating of online materials is too time consuming
 - Online course materials are difficult to repurpose
 
