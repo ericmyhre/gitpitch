@@ -2,7 +2,7 @@
 
 ### Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS <br>– Inside or Outside of your LMS<br><br>
 ##### Paul D Hibbitts<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@fa[twitter]@hibbittsdesign](https://twitter.com/hibbittsdesign)<br>
-![Creative Commons License](assets/img/cc.png)
+![Creative Commons License](fol2018/img/cc.png)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### What is Grav?
 
----?image=fol2018/img/getgrav.png&size=contain&color=black
+---?image=assets/img/getgrav.png&size=contain&color=black
 
 ---?image=assets/img/getgrav-2.png&size=contain&color=black
 
