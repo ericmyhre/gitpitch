@@ -129,8 +129,8 @@ Intended for more “Tech-savvy” educators:
 
 - Controllability
 - Flexibility
-- Portability
 - Efficiency
+- Portability
 - Openness
 - Participation
 
