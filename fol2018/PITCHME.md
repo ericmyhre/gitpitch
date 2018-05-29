@@ -85,7 +85,11 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---?image=assets/img/github-clone.png&size=contain&color=#000000
 
----?image=assets/img/atom-editor.png&size=contain&color=#000000
+---?image=assets/img/atom-editor-1.png&size=contain&color=#000000
+
+---?image=assets/img/atom-editor-2.png&size=contain&color=#000000
+
+---?image=assets/img/atom-editor-3.png&size=contain&color=#000000
 
 ---
 
