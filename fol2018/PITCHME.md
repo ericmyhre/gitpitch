@@ -66,10 +66,8 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 - Streamlined setup and configuration (incl. Git Sync)
 - Supports open and collaborative content (via Git repository)
+- Example demo course hubs (incl. basic, intermediate. and advanced)
 - Theme files synced to Git repository for collaborative authoring/assistance
-- Example course hubs (incl. basic, intermediate. and advanced)
-- Includes custom content type pages and Shortcodes (i.e. Embed.ly Web page preview cards, H5P and Swipe)
-- Fully customizable Sidebar using Markdown or HTML
 
 @ulend
 
