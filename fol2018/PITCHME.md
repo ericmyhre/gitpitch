@@ -1,21 +1,24 @@
 ---?color=#222222
 
-### Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS <br>– Inside or Outside of your LMS<br><br>
-##### Paul D Hibbitts<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@fa[twitter]@hibbittsdesign](https://twitter.com/hibbittsdesign)<br>
+### MGM Resorts Keyword Portfolio<br>– Persona and User Journey<br><br>
+##### Eric Myhre<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@fa[twitter]@ecmyhre](https://twitter.com/ecmyhre)<br>
 ![Creative Commons License](/fol2018/img/cc.png)
 
 ---
 
 ### @fa[rocket] Topics to Explore Today @fa[rocket]
 
-1. What is Grav?
-2. Grav Open Course Hub Project
-3. Other Open-related Grav Projects
-4. Possible Next Steps
+1. Executive Summary?
+2. Objectives
+3. Bussiness Measurement
+4. Persona Measurement
+5. Analytics Tagging 
+6. Reporting 
+7. Next Steps
 
 ---?color=#8fa33b
 
-### What is Grav?
+### What is MGM?
 
 ---?image=assets/img/getgrav.png&size=contain&color=black
 
