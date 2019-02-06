@@ -1,7 +1,7 @@
 ---?color=#222222
 
-### Chase<br>– Persona and User Journey<br><br>
-##### Eric Myhre<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@fa[twitter]@ecmyhre](https://twitter.com/ecmyhre)<br>
+### Keyword Portfolio<br>– Behind the Persona and User Journey<br><br>
+##### Eric Myhre<br>[ipullrank.com](https://ipullrank.com)<br>[@fa[twitter]@ecmyhre](https://twitter.com/ecmyhre)<br>
 ![Creative Commons License](/fol2018/img/cc.png)
 
 ---
