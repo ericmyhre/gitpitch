@@ -1,6 +1,6 @@
 ---?color=#222222
 
-### MGM Resorts Keyword Portfolio<br>– Persona and User Journey<br><br>
+### Chase<br>– Persona and User Journey<br><br>
 ##### Eric Myhre<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@fa[twitter]@ecmyhre](https://twitter.com/ecmyhre)<br>
 ![Creative Commons License](/fol2018/img/cc.png)
 
